@@ -123,7 +123,7 @@ class GaneshKrishna:
 
 <div align="center">
 
-![Products Shipped](https://img.shields.io/badge/Products%20Shipped-4-70a5fd?style=for-the-badge&logo=rocket&logoColor=white)
+![Products Shipped](https://img.shields.io/badge/Products%20Shipped-5-70a5fd?style=for-the-badge&logo=rocket&logoColor=white)
 ![API Integrations](https://img.shields.io/badge/API%20Integrations-15%2B-bf91f3?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Years Experience](https://img.shields.io/badge/Years%20Experience-3%2B-38bdae?style=for-the-badge&logo=calendar&logoColor=white)
 ![DB Backends](https://img.shields.io/badge/MySQL%20Backends-4-f0883e?style=for-the-badge&logo=mysql&logoColor=white)
@@ -138,6 +138,7 @@ class GaneshKrishna:
 | **LifeBoat** | Scholarship Platform | CI3 · MySQL · Firebase | Zoho Suite · Firebase OTP · Google OAuth |
 | **Swastik ERP** | Enterprise ERP | CI3 · MySQL · AJAX | GST Zen · Etimeoffice · Firebase RT · SMTP |
 | **Surge** | Automation Tool | React · CI3 · MySQL | Meta Graph API · Webhooks |
+| **Swastik Ecommerce** | B2B Industrial Store | React · ERP APIs | Multi-level variants · GST pricing · Quotation flow |
 
 </div>
 
@@ -188,7 +189,7 @@ class GaneshKrishna:
 - 🔧 Architected and maintained **CodeIgniter (PHP)** backend systems with secure RESTful APIs and webhook pipelines integrating third-party and government APIs to power web and React-based applications
 - ⚡ Optimised **MySQL** queries and backend performance; conducted API security testing using **Burp Suite** to validate authentication, authorisation, and input handling
 - 🤝 Collaborated with frontend and product teams to deliver stable, production-ready features including occasional frontend debugging support
-- 🚀 Led development of **DrillU**, **LifeBoat**, and **Swastik ERP** — three production platforms currently live at WarX
+- 🚀 Led backend development of **DrillU**, **LifeBoat**, **Swastik ERP**, and **Surge** at WarX — plus built **Swastik Ecommerce**, a React-based B2B industrial storefront powered by the ERP's APIs
 
 </details>
 
@@ -217,6 +218,7 @@ class GaneshKrishna:
 | [**LifeBoat** 🛟](https://github.com/Ganesh-krish) — *Scholarship Management System* | CI3 · MySQL · Firebase OTP · Google OAuth · Zoho Pay · Zoho Sales IQ · Zoho Zepto Mail · Zoho SMTP · Google SMTP · Google Calendar API | Connects students, institutions, donors & admins · Multi-stakeholder scholarship workflow · **Firebase phone OTP auth** · Full Zoho Suite integration · Document encryption & MFA · Chatbot ticket support |
 | [**Swastik ERP** 🏭](https://github.com/Ganesh-krish) — *Auditor & Compliance ERP* | PHP (CI3) · MySQL · REST APIs · GST Zen API · Firebase RT · Etimeoffice API · AJAX · jQuery | Full ERP lifecycle — auditor, GST, inventory, finance & compliance · **e-Invoice & e-Way Bill** via GST Zen API · Firebase real-time notifications · Etimeoffice attendance sync · File-chunking report export |
 | [**Surge** ⚡](https://github.com/Ganesh-krish) — *Instagram Automation Tool* | React · PHP (CI3) · MySQL · Meta Graph API · Webhooks | Monitors every comment on posts/reels · Auto-checks if commenter follows the account · Sends **private DM reply + public comment reply** automatically · Full-stack: React frontend + CI3 backend + MySQL |
+| [**Swastik Ecommerce** 🛒](https://github.com/Ganesh-krish) — *B2B Industrial Storefront* | React · Swastik ERP APIs · MySQL | React frontend consuming Swastik ERP's REST APIs · B2B catalogue for machines, spares & accessories · **Multi-level variants** (category → group → model → brand → collection) · HSN/GST-aware pricing (excl./incl.) · Dealer, wholesale & MOP price tiers · Spare parts linking per product · Cart → **Sales Quotation** flow (no direct checkout) · SEO fields, info badges, document catalogues per product |
 
 </div>
 
@@ -231,7 +233,7 @@ class GaneshKrishna:
 | 📄 | **Published Research Paper** | *Blockchain-based Bank Transaction Traceability* — IRJMETS Journal, Feb 2025 |
 | 🎓 | **M.Sc. Computer Science** | CGPA **7.98 / 10.0** — Ayya Nadar Janaki Ammal College, Sivakasi |
 | 🎓 | **B.Sc. Computer Science** | CGPA **8.0 / 10.0** — Ayya Nadar Janaki Ammal College, Sivakasi |
-| 🔗 | **3 Production SaaS Platforms** | DrillU · LifeBoat · Swastik ERP — all built & deployed at WarX Digital |
+| 🔗 | **5 Production Products** | DrillU · LifeBoat · Swastik ERP · Swastik Ecommerce · Surge — all built & deployed at WarX Digital |
 | 🤖 | **Instagram Automation (Surge)** | End-to-end bot: follower check → auto DM + public reply on every comment |
 | 🛠️ | **15+ Third-Party Integrations** | Google OAuth · Firebase · Zoho Suite · Razorpay · Stripe · GST Zen · Cloudinary · OneCompiler · Etimeoffice |
 
