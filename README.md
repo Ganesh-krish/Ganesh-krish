@@ -47,7 +47,7 @@ class GaneshKrishna:
         "Razorpay / Stripe / Zoho Pay",
         "Cloudinary", "OneCompiler API",
         "GST Zen (e-Invoice / e-Way Bill)",
-        "Etimeoffice Attendance API",
+        "Etimeoffice Biometric Attendance API",
         "SMTP (Gmail + Zoho)"
     ]
 
@@ -216,7 +216,7 @@ class GaneshKrishna:
 |:-------:|:-----:|:----------:|
 | [**DrillU** 🎓](https://github.com/Ganesh-krish) — *Learning & Practice Platform* | PHP (CI3) · MySQL · REST APIs · OneCompiler API · Cloudinary · Google OAuth · Postman | Web platform for educational institutions · Institution registration, course management & student assessments · **Live code proctoring** via OneCompiler API · Role-based access control · Cloudinary image uploads |
 | [**LifeBoat** 🛟](https://github.com/Ganesh-krish) — *Scholarship Management System* | CI3 · MySQL · Firebase OTP · Google OAuth · Zoho Pay · Zoho Sales IQ · Zoho Zepto Mail · Zoho SMTP · Google SMTP · Google Calendar API | Connects students, institutions, donors & admins · Multi-stakeholder scholarship workflow · **Firebase phone OTP auth** · Full Zoho Suite integration · Document encryption & MFA · Chatbot ticket support |
-| [**Swastik ERP** 🏭](https://github.com/Ganesh-krish) — *Auditor & Compliance ERP* | PHP (CI3) · MySQL · REST APIs · GST Zen API · Firebase RT · Etimeoffice API · AJAX · jQuery | Full ERP lifecycle — auditor, GST, inventory, finance & compliance · **e-Invoice & e-Way Bill** via GST Zen API · Firebase real-time notifications · Etimeoffice attendance sync · File-chunking report export |
+| [**Swastik ERP** 🏭](https://github.com/Ganesh-krish) — *Auditor & Compliance ERP* | PHP (CI3) · MySQL · REST APIs · Taxpro API · Firebase RT · Etimeoffice Biometric API · AJAX · jQuery | Full ERP lifecycle — auditor, GST, inventory, finance & compliance · **e-Invoice & e-Way Bill** via Taxpro API · Firebase real-time notifications · Etimeoffice biometric attendance sync · File-chunking report export |
 | [**Surge** ⚡](https://github.com/Ganesh-krish) — *Instagram Automation Tool* | React · PHP (CI3) · MySQL · Meta Graph API · Webhooks | Monitors every comment on posts/reels · Auto-checks if commenter follows the account · Sends **private DM reply + public comment reply** automatically · Full-stack: React frontend + CI3 backend + MySQL |
 | [**Swastik Ecommerce** 🛒](https://github.com/Ganesh-krish) — *B2B Industrial Storefront* | React · Swastik ERP APIs · MySQL | React frontend consuming Swastik ERP's REST APIs · B2B catalogue for machines, spares & accessories · **Multi-level variants** (category → group → model → brand → collection) · HSN/GST-aware pricing (excl./incl.) · Dealer, wholesale & MOP price tiers · Spare parts linking per product · Cart → **Sales Quotation** flow (no direct checkout) · SEO fields, info badges, document catalogues per product |
 
@@ -235,7 +235,7 @@ class GaneshKrishna:
 | 🎓 | **B.Sc. Computer Science** | CGPA **8.0 / 10.0** — Ayya Nadar Janaki Ammal College, Sivakasi |
 | 🔗 | **5 Production Products** | DrillU · LifeBoat · Swastik ERP · Swastik Ecommerce · Surge — all built & deployed at WarX Digital |
 | 🤖 | **Instagram Automation (Surge)** | End-to-end bot: follower check → auto DM + public reply on every comment |
-| 🛠️ | **15+ Third-Party Integrations** | Google OAuth · Firebase · Zoho Suite · Razorpay · Stripe · GST Zen · Cloudinary · OneCompiler · Etimeoffice |
+| 🛠️ | **15+ Third-Party Integrations** | Google OAuth · Firebase · Zoho Suite · Razorpay · Stripe · Taxpro · Cloudinary · OneCompiler · Etimeoffice |
 
 </div>
 
