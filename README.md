@@ -117,15 +117,37 @@ class GaneshKrishna:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Impact at a Glance
+
+> 💼 Most of my work lives in **private production repositories** — here's what actually shipped:
 
 <div align="center">
-  <a href="https://github.com/Ganesh-krish">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ganesh-krish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  </a>
-  <a href="https://github.com/Ganesh-krish">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-krish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-  </a>
+
+![Products Shipped](https://img.shields.io/badge/Products%20Shipped-4-70a5fd?style=for-the-badge&logo=rocket&logoColor=white)
+![API Integrations](https://img.shields.io/badge/API%20Integrations-15%2B-bf91f3?style=for-the-badge&logo=fastapi&logoColor=white)
+![Years Experience](https://img.shields.io/badge/Years%20Experience-3%2B-38bdae?style=for-the-badge&logo=calendar&logoColor=white)
+![DB Backends](https://img.shields.io/badge/MySQL%20Backends-4-f0883e?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+<div align="center">
+
+| 🚀 Product | 🏷️ Type | ⚙️ Core Tech | 🔗 Key Integrations |
+|:-----------|:--------|:------------|:-------------------|
+| **DrillU** | EdTech SaaS | CI3 · MySQL · REST | Google OAuth · OneCompiler · Cloudinary |
+| **LifeBoat** | Scholarship Platform | CI3 · MySQL · Firebase | Zoho Suite · Firebase OTP · Google OAuth |
+| **Swastik ERP** | Enterprise ERP | CI3 · MySQL · AJAX | GST Zen · Etimeoffice · Firebase RT · SMTP |
+| **Surge** | Automation Tool | React · CI3 · MySQL | Meta Graph API · Webhooks |
+
+</div>
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/Primary%20Language-PHP%20%2F%20CodeIgniter-777BB4?style=flat-square&logo=php&logoColor=white)
+![Auth](https://img.shields.io/badge/Auth%20Systems-OAuth%20%7C%20Firebase%20OTP%20%7C%20MFA-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Payments](https://img.shields.io/badge/Payments-Razorpay%20%7C%20Stripe%20%7C%20Zoho%20Pay-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Mail](https://img.shields.io/badge/Mail-Gmail%20SMTP%20%7C%20Zoho%20SMTP%20%7C%20Zepto%20Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)
+
 </div>
 
 ---
@@ -149,7 +171,7 @@ class GaneshKrishna:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh-krish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh-krish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 </div>
 
 ---
